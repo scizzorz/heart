@@ -1,0 +1,16 @@
+html,body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	background-color: #000;
+}
+#badge {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	display: block;
+}
+canvas {
+	background-color: #000;
+	display: block;
+}
